@@ -2,7 +2,7 @@
     "devDependencies": {
         "css-declaration-sorter": "^7.4.0",
         "cssnano": "^8.0.1",
-        "postcss": "^8.5.15",
+        "postcss": "^8.5.25",
         "postcss-cli": "^11.0.1"
     },
     "scripts": {
